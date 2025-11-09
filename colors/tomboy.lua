@@ -1,0 +1,1 @@
+require("tomboy.nvim").setup()
